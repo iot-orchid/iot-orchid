@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:iot-orchid/api.git
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:iot-orchid/dashboard.git
